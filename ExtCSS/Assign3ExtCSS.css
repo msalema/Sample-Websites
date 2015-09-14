@@ -1,0 +1,102 @@
+/* SHAW CHANNELS  */
+
+ul.goldball {
+	list-style-image: url('../shawChannels/imgs/goldball2.gif');
+}
+
+a.names:hover {
+	font-size: 1.5em; color: blue;
+}
+
+div h2:first-letter{
+	color: green;	text-decoration: underline;	font-size: 1.5em;
+}
+
+a.titles:hover {
+	font-size: 1.2em;	text-decoration: underline;
+}
+
+h1.shawH1{
+	text-align: center;
+}
+
+img.imgRight {
+	float: right;
+}
+
+span h2{
+	text-align: center;
+}
+
+/* MAN FROM UNCLE  */
+
+p.img{
+	text-align: center;
+}
+
+a.yelLink{
+	color: yellow;	
+}
+
+figcaption.imageTitle{
+	color: yellow;
+	text-align: center; visibility: hidden; 
+	font-style: italic;	
+}
+
+.image:hover .imageTitle{
+	visibility: visible;
+	color: yellow;	
+}
+
+.castNames{
+	color: yellow;
+}
+
+a.castNames:hover{
+	color: blue;
+	font-size: 1.5em;
+	font-family: "Arial";
+}
+
+/*  TABLE  */
+
+.tableBody{
+	background-image: url('../commonImages/back_clouds.jpg');
+}
+
+.regPrice{
+	font-weight: bold;
+}
+.regPriceEm{
+	font-weight: bold;
+	text-decoration: overline underline;
+	font-size: 1.2em;
+}
+
+.bundleBG1{
+	background-image: url('../TablePart/imgs/back_sandstone.jpg');
+	border: 7px solid red;
+
+}
+.bundleBG2{
+	background-image: url('../TablePart/imgs/back_marblegreen.jpg');
+	border: 7px dashed green;
+}
+th{
+	font-style: italic;
+	font-size: 1.2em;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
